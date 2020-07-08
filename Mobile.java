@@ -6,5 +6,6 @@ class Mobile{
         int second_num;
 
 	System.out.println("Hello everything!");
+	System.out.println("Hello everyone!");
     }
 }
