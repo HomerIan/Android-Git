@@ -4,5 +4,7 @@ class Mobile{
         System.out.println("Hello world");
         int first_num;
         int second_num;
+
+	System.out.println("Hello everything!");
     }
 }
